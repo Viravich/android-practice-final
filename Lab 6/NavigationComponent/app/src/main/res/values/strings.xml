@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="go_to_2">GO TO 2</string>
+    <string name="go_to_3">GO TO 3</string>
+    <string name="app_name">NavigationComponent1</string>
+    <string name="about">About Navigation</string>
+    <string name="description">This app is to illustate about Android Jetpack Navigation Component</string>
+    <string name="share">share</string>
+
+</resources>
